@@ -88,6 +88,7 @@ return apply_filters( 'wc_stripe_settings',
 			'options'     => array(
 				'auto' => __( 'Auto', 'woocommerce-gateway-stripe' ),
 				'zh'   => __( 'Simplified Chinese', 'woocommerce-gateway-stripe' ),
+				'da'   => __( 'Danish', 'woocommerce-gateway-stripe' ),
 				'nl'   => __( 'Dutch', 'woocommerce-gateway-stripe' ),
 				'en'   => __( 'English', 'woocommerce-gateway-stripe' ),
 				'fr'   => __( 'French', 'woocommerce-gateway-stripe' ),
